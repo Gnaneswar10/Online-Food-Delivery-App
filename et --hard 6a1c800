@@ -1,0 +1,16 @@
+[33mfb5e7c5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mgnani[m[33m, [m[1;31morigin/gnani[m[33m)[m Merge remote-tracking branch 'upstream/main' into gnani
+[33m5990193[m Update payment.py
+[33m6c3ccde[m[33m ([m[1;31mupstream/main[m[33m)[m Update cart.py
+[33m3f1561f[m Update auth.py
+[33mb0d43c4[m Update auth.py
+[33mfd79d3d[m Update admin.py
+[33m6a1c800[m Added Payemnts backend
+[33md1d3caf[m Added Payments backend
+[33m2ecb1fe[m[33m ([m[1;31morigin/main[m[33m)[m Update orders.py by uday
+[33m56c02f8[m fixed cart.py
+[33mbd95cee[m Update Orders.jsx
+[33mce029e1[m Update Cart.jsx by uday
+[33maa02790[m Update Admin.jsx with new version
+[33m65078a3[m Update README.md
+[33me9aac0f[m Add professional README.md
+[33mda88b1a[m Initial commit for Online Food Order app
